@@ -1,0 +1,8 @@
+{
+  "name": "eslint-report-errors",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "hi.soulier@gmail.com",
+  "type": "module"
+}
